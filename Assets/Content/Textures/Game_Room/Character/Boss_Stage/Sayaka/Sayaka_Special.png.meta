@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 71df0f2d284ecc441aa0e84ba73c1701
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sayaka_Special_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 144
+        width: 77
+        height: 87
+      alignment: 9
+      pivot: {x: .399252266, y: .0244396683}
+    - name: Sayaka_Special_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 144
+        width: 80
+        height: 73
+      alignment: 9
+      pivot: {x: .279124647, y: .00408183038}
+    - name: Sayaka_Special_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 142
+        width: 96
+        height: 54
+      alignment: 9
+      pivot: {x: .0645341873, y: .0450803973}
+    - name: Sayaka_Special_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 141
+        width: 95
+        height: 53
+      alignment: 9
+      pivot: {x: .0599503368, y: .0690235645}
+    - name: Sayaka_Special_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 165
+        width: 86
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: Sayaka_Special_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 37
+        width: 87
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: Sayaka_Special_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 37
+        width: 87
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: Sayaka_Special_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 26
+        width: 89
+        height: 82
+      alignment: 9
+      pivot: {x: .567793965, y: .0164654423}
+    - name: Sayaka_Special_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 27
+        width: 87
+        height: 85
+      alignment: 9
+      pivot: {x: .574306071, y: .0183204431}
+    - name: Sayaka_Special_9
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 27
+        width: 70
+        height: 91
+      alignment: 9
+      pivot: {x: .278355181, y: .0216634981}
+  spritePackingTag: 
+  userData: 

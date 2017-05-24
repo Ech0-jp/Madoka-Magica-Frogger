@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: af71583fb9688c145b2032bc1cedd53a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sayaka_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 167
+        width: 94
+        height: 104
+      alignment: 9
+      pivot: {x: .660469949, y: .0124319512}
+    - name: Sayaka_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 194
+        width: 77
+        height: 106
+      alignment: 9
+      pivot: {x: .623136044, y: .0121973865}
+    - name: Sayaka_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 194
+        width: 77
+        height: 106
+      alignment: 9
+      pivot: {x: .628733039, y: .00406574737}
+    - name: Sayaka_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 194
+        width: 77
+        height: 106
+      alignment: 9
+      pivot: {x: .634330034, y: .0162632782}
+    - name: Sayaka_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 205
+        width: 98
+        height: 99
+      alignment: 9
+      pivot: {x: .579158843, y: .00435322477}
+    - name: Sayaka_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 42
+        width: 103
+        height: 99
+      alignment: 9
+      pivot: {x: .638079822, y: 0}
+    - name: Sayaka_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 28
+        width: 89
+        height: 111
+      alignment: 9
+      pivot: {x: .688854754, y: .00301816431}
+    - name: Sayaka_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 28
+        width: 89
+        height: 110
+      alignment: 9
+      pivot: {x: .698539495, y: .010254045}
+    - name: Sayaka_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 28
+        width: 89
+        height: 112
+      alignment: 9
+      pivot: {x: .693697155, y: .00745550217}
+  spritePackingTag: 
+  userData: 

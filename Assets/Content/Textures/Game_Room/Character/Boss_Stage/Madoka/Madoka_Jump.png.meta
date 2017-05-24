@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 1b4015a69dd13a448ab67cc89462f62f
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Madoka_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 137
+        width: 67
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Madoka_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 137
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Madoka_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 137
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Madoka_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 139
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Madoka_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 153
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Madoka_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 33
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Madoka_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 29
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Madoka_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 21
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Madoka_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 7
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

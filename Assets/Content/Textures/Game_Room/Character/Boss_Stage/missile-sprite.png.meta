@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 2e8b303bea2de5849b483349ca261fe1
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: missile-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2
+        width: 21
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2
+        width: 21
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2
+        width: 21
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2
+        width: 20
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2
+        width: 24
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2
+        width: 20
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: missile-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2
+        width: 19
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

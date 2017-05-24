@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: efd69af54801d154cbe57aaf549462ae
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Kyouko_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 199
+        width: 163
+        height: 106
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Kyouko_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 209
+        width: 85
+        height: 83
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Kyouko_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 187
+        width: 64
+        height: 71
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Kyouko_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 187
+        width: 59
+        height: 88
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Kyouko_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 205
+        width: 83
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Kyouko_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 61
+        width: 111
+        height: 72
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Kyouko_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 41
+        width: 192
+        height: 98
+      alignment: 9
+      pivot: {x: .378226757, y: .0153923035}
+    - name: Kyouko_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 33
+        width: 189
+        height: 110
+      alignment: 9
+      pivot: {x: .364322394, y: .00685646757}
+    - name: Kyouko_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 3
+        width: 187
+        height: 107
+      alignment: 9
+      pivot: {x: .241875142, y: .0140972985}
+    - name: Kyouko_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 3
+        width: 195
+        height: 106
+      alignment: 9
+      pivot: {x: .260200381, y: .00711511215}
+  spritePackingTag: 
+  userData: 

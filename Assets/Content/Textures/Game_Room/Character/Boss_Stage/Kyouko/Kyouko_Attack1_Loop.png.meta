@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: dc8124a67042879498f88063e5d459fa
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Kyouko_Attack1_Loop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 245
+        height: 198
+      alignment: 9
+      pivot: {x: .797430038, y: .0226335619}
+    - name: Kyouko_Attack1_Loop_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 328
+        width: 212
+        height: 160
+      alignment: 9
+      pivot: {x: .836303294, y: .0138887409}
+    - name: Kyouko_Attack1_Loop_2
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 327
+        width: 131
+        height: 177
+      alignment: 9
+      pivot: {x: .323296696, y: .0217617918}
+    - name: Kyouko_Attack1_Loop_3
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 328
+        width: 172
+        height: 145
+      alignment: 9
+      pivot: {x: .127907336, y: .022988366}
+    - name: Kyouko_Attack1_Loop_4
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 224
+        width: 167
+        height: 201
+      alignment: 9
+      pivot: {x: .183965802, y: .523032904}
+    - name: Kyouko_Attack1_Loop_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 156
+        height: 206
+      alignment: 9
+      pivot: {x: .209164351, y: .526968539}
+    - name: Kyouko_Attack1_Loop_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 27
+        width: 165
+        height: 183
+      alignment: 9
+      pivot: {x: .258698255, y: .44940269}
+    - name: Kyouko_Attack1_Loop_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 105
+        width: 220
+        height: 152
+      alignment: 9
+      pivot: {x: .154882252, y: .030945126}
+    - name: Kyouko_Attack1_Loop_8
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 105
+        width: 107
+        height: 160
+      alignment: 9
+      pivot: {x: .344237149, y: .013888645}
+  spritePackingTag: 
+  userData: 

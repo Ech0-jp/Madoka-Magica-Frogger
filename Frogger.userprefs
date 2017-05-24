@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Content\Scripts\Game\Obstacles\VehicleController.cs">
+    <Files>
+      <File FileName="Assets\Content\Scripts\Game\Level\RandomLevelGenerater.cs" Line="156" Column="36" />
+      <File FileName="Assets\Content\Scripts\Game\Character\PlayerController.cs" Line="336" Column="23" />
+      <File FileName="Assets\Content\Scripts\Game\LevelController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Content\Scripts\GUI\BossStage_GUI\Life_BossStage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Content\Scripts\Game\BossLevelController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Content\Scripts\GUI\Game\GameGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Content\Scripts\Game\Boss\LevelClear.cs" Line="1" Column="1" />
+      <File FileName="Assets\Content\Scripts\Game\Boss\Boss1\Boss1_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Content\Scripts\GUI\Menus\LevelFinishedGUI.cs" Line="86" Column="2" />
+      <File FileName="Assets\Content\Scripts\GUI\Menus\MainMenu\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Content\Scripts\Game\Character\Boss_Stage\Madoka\MadokaMovement_BossStage.cs" Line="408" Column="47" />
+      <File FileName="Assets\Content\Scripts\GUI\Menus\MainMenu\Intro.cs" Line="35" Column="32" />
+      <File FileName="Assets\Content\Scripts\Game\Obstacles\Spawn.cs" Line="75" Column="25" />
+      <File FileName="Assets\Content\Scripts\Game\Obstacles\VehicleController.cs" Line="33" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: ee2c3ecef01cabb468c2b46bfebd263d
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Kyouko_Special_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 130
+        width: 64
+        height: 109
+      alignment: 9
+      pivot: {x: .279577196, y: .0298524909}
+    - name: Kyouko_Special_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 130
+        width: 63
+        height: 109
+      alignment: 9
+      pivot: {x: .289787889, y: .0140049085}
+    - name: Kyouko_Special_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 130
+        width: 65
+        height: 110
+      alignment: 9
+      pivot: {x: .362694383, y: .0158057474}
+    - name: Kyouko_Special_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 73
+        height: 112
+      alignment: 9
+      pivot: {x: .432954967, y: .0064583295}
+    - name: Kyouko_Special_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 89
+        height: 108
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Kyouko_Special_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 82
+        height: 108
+      alignment: 7
+      pivot: {x: .5, y: 0}
+  spritePackingTag: 
+  userData: 

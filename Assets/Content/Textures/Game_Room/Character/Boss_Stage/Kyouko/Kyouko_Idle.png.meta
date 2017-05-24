@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 0e646cacdfce0484dbb5f8f2e494d797
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Kyouko_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 169
+        width: 187
+        height: 101
+      alignment: 9
+      pivot: {x: .315480918, y: .0127510596}
+    - name: Kyouko_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 169
+        width: 187
+        height: 102
+      alignment: 9
+      pivot: {x: .318505913, y: .0175281595}
+    - name: Kyouko_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 169
+        width: 187
+        height: 102
+      alignment: 9
+      pivot: {x: .315481097, y: .0119824875}
+    - name: Kyouko_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 169
+        width: 187
+        height: 101
+      alignment: 9
+      pivot: {x: .31245625, y: .0127510596}
+    - name: Kyouko_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 32
+        width: 187
+        height: 100
+      alignment: 9
+      pivot: {x: .315480918, y: .0248484425}
+    - name: Kyouko_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 32
+        width: 187
+        height: 97
+      alignment: 9
+      pivot: {x: .315481097, y: .0276475102}
+    - name: Kyouko_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 32
+        width: 187
+        height: 96
+      alignment: 9
+      pivot: {x: .312456101, y: .0286195278}
+    - name: Kyouko_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 32
+        width: 187
+        height: 98
+      alignment: 9
+      pivot: {x: .315480918, y: .0266953297}
+  spritePackingTag: 
+  userData: 

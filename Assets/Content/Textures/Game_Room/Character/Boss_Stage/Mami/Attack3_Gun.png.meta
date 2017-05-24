@@ -1,0 +1,81 @@
+fileFormatVersion: 2
+guid: 6700dc7c48f7e844cabea68b3a630318
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Attack3_Gun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Attack3_Gun_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Attack3_Gun_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 70
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Attack3_Gun_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

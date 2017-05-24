@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 4b115dbfcc634f94c84851fa2495a34e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jem_sayaka_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 774
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 774
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 678
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 678
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 678
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 582
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 582
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 582
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 486
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 486
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 486
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 390
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 390
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 390
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 294
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 294
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 294
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 198
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 198
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 198
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 102
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 102
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 102
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: jem_sayaka_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 6
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

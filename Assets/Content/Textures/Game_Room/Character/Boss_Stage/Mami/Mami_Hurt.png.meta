@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: d02474f0d2d89a2488d72bf779e305eb
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mami_Hurt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mami_Hurt_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 14
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mami_Hurt_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 14
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mami_Hurt_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 14
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mami_Hurt_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 13
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mami_Hurt_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 14
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: b55c7c63a03df0a42848d923c39b1640
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mami_Specail_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Specail_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 14
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Specail_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 12
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Specail_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 9
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Specail_4
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 9
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Specail_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 9
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Specail_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Specail_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 7
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Specail_8
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 11
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Specail_9
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 29
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

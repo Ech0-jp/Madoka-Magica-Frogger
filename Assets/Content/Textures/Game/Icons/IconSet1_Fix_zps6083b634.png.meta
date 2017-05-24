@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 46fca550a016309408ba9f08a79122e3
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: IconSet1_Fix_zps6083b634_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 122
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 121
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 121
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 122
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 123
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 121
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 121
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 121
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 121
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 121
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 121
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 98
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 97
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 98
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 99
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 99
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 97
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 97
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 97
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 97
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 97
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_24
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 97
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_26
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 74
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 73
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 73
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 74
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 75
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 75
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 73
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 73
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_34
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 73
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_35
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 73
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_36
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 73
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_38
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 53
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 48
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 52
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 48
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 57
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_45
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 52
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 52
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 57
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_48
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 52
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_49
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 53
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 51
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_51
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 51
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 24
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_53
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 24
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 24
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_57
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 24
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_58
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_59
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 25
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_60
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 30
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_61
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 26
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_63
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_64
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_65
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_67
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_69
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_71
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_72
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_73
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_74
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_75
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 5
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_76
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 5
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_77
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 5
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_78
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 5
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_79
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 5
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_80
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 5
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: IconSet1_Fix_zps6083b634_81
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 5
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

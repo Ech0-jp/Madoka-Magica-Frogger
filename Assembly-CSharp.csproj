@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{8FE35AED-406F-222B-7CAB-853C271086BA}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_GENERICS;ENABLE_SUBSTANCE;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_3_4;UNITY_4_3;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Content\Scripts\GUI\BossStage_GUI\BossStage_GUI.cs" />
+     <Compile Include="Assets\Content\Scripts\GUI\BossStage_GUI\Boss_GUI.cs" />
+     <Compile Include="Assets\Content\Scripts\GUI\BossStage_GUI\Life_BossStage.cs" />
+     <Compile Include="Assets\Content\Scripts\GUI\DisplayTextureFullScreen.cs" />
+     <Compile Include="Assets\Content\Scripts\GUI\Game\GameGUI.cs" />
+     <Compile Include="Assets\Content\Scripts\GUI\Game\SoulGem.cs" />
+     <Compile Include="Assets\Content\Scripts\GUI\Menus\LevelFinishedGUI.cs" />
+     <Compile Include="Assets\Content\Scripts\GUI\Menus\MainMenu\Intro.cs" />
+     <Compile Include="Assets\Content\Scripts\GUI\Menus\MainMenu\MainMenu.cs" />
+     <Compile Include="Assets\Content\Scripts\GUI\_GUIClasses.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Boss\Boss1\Boss1_Controller.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Boss\Boss1\ChompCollider.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Boss\Boss1\TogeCollider.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Boss\Boss1\TogeController.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Boss\LevelClear.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\BossLevelController.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\CameraController.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\CharacterController_BossStage.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\CharacterStats.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Homura\BulletController.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Homura\HomuraMovement_BossStage.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Homura\RocketController.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Kyouko\AttackCollider.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Kyouko\KyoukoMovement_BossStage.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Madoka\EffectDestroyer.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Madoka\LargeArrow1_Controller.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Madoka\LargeArrow2_Controller.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Madoka\MadokaMovement_BossStage.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Madoka\MagicCharge.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Madoka\SmallArrow_Controller.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Mami\Attack3_Controller.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Mami\FireWorkController.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Mami\MamiMovement_BossStage.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\Boss_Stage\Sayaka\SayakaMovement_BossStage.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\CharacterClasses.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\PlayerController.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Character\PlayerSpawn.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\CutSceneController.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Level\RandomLevelGenerater.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Level\SafeZone.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Level\ScoringArea.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Level\WaterController.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\LevelController.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Obstacles\DestroyObj.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Obstacles\LogController.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Obstacles\Spawn.cs" />
+     <Compile Include="Assets\Content\Scripts\Game\Obstacles\VehicleController.cs" />
+     <Compile Include="Assets\Content\Scripts\Utilities\DestroyAfterTime.cs" />
+     <Compile Include="Assets\Content\Scripts\Utilities\RendererSortingLayer\RendererSortingLayer.cs" />
+     <Compile Include="Assets\Content\Scripts\audio\Musicplayer.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

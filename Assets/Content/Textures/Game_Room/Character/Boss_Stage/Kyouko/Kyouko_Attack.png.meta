@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 5d47019c3b223744a957df70bda46523
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Kyouko_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1025
+        width: 68
+        height: 141
+      alignment: 9
+      pivot: {x: .320901752, y: .210648343}
+    - name: Kyouko_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1042
+        width: 121
+        height: 121
+      alignment: 9
+      pivot: {x: .434577376, y: .127594754}
+    - name: Kyouko_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 848
+        width: 171
+        height: 113
+      alignment: 9
+      pivot: {x: .631757319, y: .0150087066}
+    - name: Kyouko_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 849
+        width: 139
+        height: 109
+      alignment: 9
+      pivot: {x: .421145201, y: .0474898294}
+    - name: Kyouko_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 645
+        width: 170
+        height: 111
+      alignment: 9
+      pivot: {x: .216575801, y: .0312010627}
+    - name: Kyouko_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 647
+        width: 156
+        height: 108
+      alignment: 9
+      pivot: {x: .753264964, y: .018178869}
+    - name: Kyouko_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 423
+        width: 164
+        height: 110
+      alignment: 9
+      pivot: {x: .264965147, y: .0225591492}
+    - name: Kyouko_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 423
+        width: 120
+        height: 115
+      alignment: 9
+      pivot: {x: .672652662, y: .0307479203}
+    - name: Kyouko_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 218
+        width: 209
+        height: 115
+      alignment: 9
+      pivot: {x: .838888705, y: .0349379815}
+    - name: Kyouko_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 218
+        width: 262
+        height: 115
+      alignment: 9
+      pivot: {x: .897226572, y: .0181789231}
+    - name: Kyouko_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 13
+        width: 188
+        height: 115
+      alignment: 9
+      pivot: {x: .84342581, y: .0223685298}
+    - name: Kyouko_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 12
+        width: 165
+        height: 117
+      alignment: 9
+      pivot: {x: .821214318, y: .0181787759}
+  spritePackingTag: 
+  userData: 

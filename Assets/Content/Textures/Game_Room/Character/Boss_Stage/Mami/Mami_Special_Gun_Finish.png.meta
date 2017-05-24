@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 9513f0d232eed4e4a8f6d40573e97236
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mami_Special_Gun_Finish_0
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 14
+        width: 208
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 12
+        width: 210
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_2
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 11
+        width: 213
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_3
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 0
+        width: 246
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_4
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 15
+        width: 233
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_5
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 13
+        width: 217
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_6
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 115
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_7
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 0
+        width: 241
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 27
+        width: 181
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_9
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 103
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_10
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 86
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_11
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 67
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_12
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 11
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_13
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 11
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mami_Special_Gun_Finish_14
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,72 @@
+fileFormatVersion: 2
+guid: 6abb69f1c8e892846a8c0d9522bb895a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Boss1_Death_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 13
+        width: 426
+        height: 534
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss1_Death_1
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 13
+        width: 426
+        height: 537
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss1_Death_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 7
+        width: 426
+        height: 537
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

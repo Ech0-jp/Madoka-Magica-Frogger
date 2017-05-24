@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: c8f4af257eebe094d8734a3002ec5b09
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: MadokaMagica_Character_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 222
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 222
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 222
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 222
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 224
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 222
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 222
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 222
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 222
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 222
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 222
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 222
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 190
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 189
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 169
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 190
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 190
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 191
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 190
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 190
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 167
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 190
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 190
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 190
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 158
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 134
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 158
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 158
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 158
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 158
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 158
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 158
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 158
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 158
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 126
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 101
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 126
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 126
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 125
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 126
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 126
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 126
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 126
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 126
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 126
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 126
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 94
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 68
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 94
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 94
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 92
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 94
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 94
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 75
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 94
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 90
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 87
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 62
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 62
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 62
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 33
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 62
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 62
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 62
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 51
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 51
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 30
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 30
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 30
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 30
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 30
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 30
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 11
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MadokaMagica_Character_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

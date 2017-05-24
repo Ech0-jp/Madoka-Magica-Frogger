@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: bd58558b61da93b4b9c926bf1e45f63a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sayaka_Attack3_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 86
+        height: 97
+      alignment: 9
+      pivot: {x: .334625334, y: .0023776968}
+    - name: Sayaka_Attack3_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 142
+        width: 94
+        height: 88
+      alignment: 9
+      pivot: {x: .124041781, y: .00535652833}
+    - name: Sayaka_Attack3_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 142
+        width: 92
+        height: 91
+      alignment: 9
+      pivot: {x: .101815268, y: .0121914372}
+    - name: Sayaka_Attack3_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 152
+        width: 71
+        height: 82
+      alignment: 9
+      pivot: {x: .141864613, y: .00595371891}
+    - name: Sayaka_Attack3_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 146
+        width: 73
+        height: 87
+      alignment: 9
+      pivot: {x: .287463874, y: -.000329028611}
+    - name: Sayaka_Attack3_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 117
+        height: 90
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Sayaka_Attack3_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 18
+        width: 108
+        height: 90
+      alignment: 9
+      pivot: {x: .340379089, y: .0163486488}
+    - name: Sayaka_Attack3_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 18
+        width: 85
+        height: 92
+      alignment: 9
+      pivot: {x: .0943750739, y: .00812470354}
+    - name: Sayaka_Attack3_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 10
+        width: 95
+        height: 105
+      alignment: 7
+      pivot: {x: .5, y: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: e89facec93b743c4398ea03c2e4c1977
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Boss_TAttack_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1668
+        width: 302
+        height: 517
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss_TAttack_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1664
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss_TAttack_2
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1664
+        width: 308
+        height: 548
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss_TAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1664
+        width: 424
+        height: 537
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss_TAttack_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1155
+        width: 467
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss_TAttack_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1152
+        width: 586
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss_TAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1152
+        width: 550
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss_TAttack_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 579
+        width: 590
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss_TAttack_8
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 591
+        width: 397
+        height: 537
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss_TAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 591
+        width: 426
+        height: 537
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss_TAttack_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 341
+        height: 537
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss_TAttack_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 5
+        width: 432
+        height: 486
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Boss_TAttack_12
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 11
+        width: 396
+        height: 469
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
